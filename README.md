@@ -1,4 +1,4 @@
-# Project Pizza-Classifier 🍕🚀
+# Food Vision Mini Classification 🍕🚀
 
 ## Table of Contents
 
@@ -72,13 +72,6 @@ Taste the success and explore the flavorful results achieved through our pizza o
 💡 Contributing
 Join the pizza party! Share your toppings and contribute to the pizza-verse.
 
-📜 License
-This project is licensed under the [Your License] - see the LICENSE.md file for details.
-
 🙏 Acknowledgments
 A special thanks to the pizza makers, the unsung heroes behind the scenes. 🍕👩‍🍳
 
-css
-Copy code
-
-Feel free to customize the emoji, language, or sections to better suit the tone a
